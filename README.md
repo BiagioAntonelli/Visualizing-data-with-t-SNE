@@ -2,4 +2,4 @@
 
 This repo contains documents for the class Data Mining and Exploration, University of Edinburgh:
 * My poster presentation about t_SNE
-* Tutorial on unsupervised dimension reduction techniques
+* Tutorial on unsupervised dimensionality reduction techniques
